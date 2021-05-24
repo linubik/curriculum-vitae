@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { render } from 'react-dom';
-import Hello from './Hello';
+
 import Profil from './profil/Profil';
-import Experience from './experience/Experience';
+
 import './style.css';
 import './vars.css';
 
