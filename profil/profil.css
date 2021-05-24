@@ -1,0 +1,14 @@
+.bigblue {
+  color: DodgerBlue;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+header {
+  background-color: orange;
+}
+
+section {
+  background-color: purple;
+}

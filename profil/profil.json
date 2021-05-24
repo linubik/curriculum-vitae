@@ -1,0 +1,36 @@
+{
+  "nom" : "THOMAS",
+  "prenom" : "Bruno",
+  "fonction" : "Responsable d'Application Internet",
+  "societe" : "MAAF Assurances",
+  "groupe" : "COVEA",
+  "experiences" : [
+    {
+      "societe" : "MAAF Assurances",
+      "dateDebut" : "04/08/2004",
+      "missions" : [
+        {
+          "fonction" : "Responsable d'Application Internet",
+          "dateDebut" : "15/09/2009",
+          "commentaire" : "Référent applicatif des sites web et applications mobiles proposée par MAAF Assurances (parcours de vente, espace client ...)"
+        },
+        {
+          "fonction" : "Ingénieur méthodes",
+          "dateDebut" : "04/08/2004",
+          "commentaire" : "Modelisation UML (RationalRose , MagicDrawUML)Génration de code MDA , Génération de site Web documentaire depuis Mega(c)"
+        }
+      ]
+    },
+    {
+      "societe" : "MACIF",
+      "dateDebut" : "01/09/2000",
+      "missions" : [
+        {
+          "fonction" : "Concepteur Developpeur",
+          "dateDebut" : "01/09/2000",
+          "commentaire" : "Equipe socle J2EE / WebSphere"
+        }
+      ]
+    }
+  ]
+}
