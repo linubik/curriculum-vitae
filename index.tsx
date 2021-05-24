@@ -4,7 +4,7 @@ import { render } from 'react-dom';
 import Profil from './profil/Profil';
 
 import './style.css';
-import './vars.css';
+import './linkedin-vars.css';
 
 interface AppProps { }
 interface AppState {
