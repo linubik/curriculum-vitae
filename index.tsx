@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { render } from 'react-dom';
 
 import Profil from './profil/Profil';
+import SimpleAccordion from './accordion/SimpleAccordion';
 
 import './style.css';
 import './linkedin-vars.css';
@@ -18,6 +19,8 @@ class App extends Component<AppProps, AppState> {
       name: 'React'
     };
   }
+
+
 
   render() {
     return (
